@@ -23,7 +23,6 @@ export function getInterviewersForDay(state, day) {
     for (let id of dayObj.interviewers) {
       interviewerstList.push(state.interviewers[id]);
     }
-    
   return interviewerstList;
 };
 
@@ -36,8 +35,8 @@ export function getInterview(state, interview) {
   const newInterviewObj = {
       ...interview,
       interviewer: {...state.interviewers[interview.interviewer]}
-    }
-  return newInterviewObj
+  }
+  return newInterviewObj;
 }
 
 

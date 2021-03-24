@@ -51,7 +51,7 @@ const fixtures = {
       avatar: "https://i.imgur.com/FK8V841.jpg"
     }
   }
-}
+};
 
 export default {
   defaults: { baseURL: "" },
@@ -96,5 +96,5 @@ export default {
       statusText: "No Content"
     })
   })
-
+  
 };

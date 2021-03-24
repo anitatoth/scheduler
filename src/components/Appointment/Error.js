@@ -1,7 +1,6 @@
 import React from "react";
 
 
-
 export default function Error(props) {
 
   return (
@@ -18,4 +17,4 @@ export default function Error(props) {
       />
     </main>
   )
-}
+};
