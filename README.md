@@ -2,6 +2,13 @@
 
 React application that allows users to book and cancel interviews.
 
+## Screenshots
+
+!["Editing an appointment."](https://github.com/zorromark/scheduler/blob/master/docs/edit_appointments.png?raw=true)
+
+![""](https://github.com/zorromark/scheduler/blob/master/docs/delete_appointments.png?raw=true)
+
+
 ## Setup
 
 Install dependencies with `npm install`.
